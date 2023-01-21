@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="main">
-        <h2 id="main-title">Company Information</h2>
+        <h2 id="main-title">Company Informations</h2>
         <form class="main-form" action="/WorkApplicationCRUD/create.php" method="post">
             <label for="CName">Company Name:</label>
             <input type="text" name="CName" id="CName">
